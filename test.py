@@ -1,3 +1,2 @@
-import fuck
 
 print("fuck")
