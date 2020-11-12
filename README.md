@@ -1,1 +1,1 @@
-# kul du er da
+# kul du
